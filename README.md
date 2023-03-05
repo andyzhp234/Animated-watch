@@ -4,7 +4,7 @@ A website that displays an animated watch.
 
 ## Live Website
 
-You can access the live website at xyz.com.
+You can access the live website at https://simple-watch-tool.netlify.app.
 
 ## Getting Started
 
